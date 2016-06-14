@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionGoat", "ActionGoat\ActionGoat.csproj", "{B2B3CC4C-6028-419A-8263-60F50694DE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bo", "Bo\Bo.csproj", "{6BB93E34-730F-4711-A1A7-F5874B204D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B3CC4C-6028-419A-8263-60F50694DE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B3CC4C-6028-419A-8263-60F50694DE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B3CC4C-6028-419A-8263-60F50694DE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B3CC4C-6028-419A-8263-60F50694DE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB93E34-730F-4711-A1A7-F5874B204D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB93E34-730F-4711-A1A7-F5874B204D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB93E34-730F-4711-A1A7-F5874B204D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB93E34-730F-4711-A1A7-F5874B204D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
